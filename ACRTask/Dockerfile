@@ -1,2 +1,2 @@
 FROM nginx
-COPY ./ACRTask/* /usr/share/nginx/html
+COPY ./ACRTask/* /usr/share/nginx/html/
